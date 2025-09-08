@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/solid-exercises/ex01_srp_invoice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/solid-exercises/ex02_ocp_discount" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/solid-exercises/ex03_lsp_rectangle_square" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/solid-exercises/ex04_isp_notifier" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/solid-exercises/ex05_dip_user_controller" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/solid-exercises/ex06_srp_ocp_report" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/solid-exercises/ex07_lsp_payment_gateway" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/solid-exercises/ex08_isp_dip_search" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/solid-exercises/ex09_ocp_dip_tax" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/solid-exercises/ex10_srp_dip_logger" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
