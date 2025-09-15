@@ -1,4 +1,5 @@
 package SOLUCOES;
 
-public class ReportRenderer {
+interface ReportRenderer {
+    byte[] render(ReportData data);
 }
